@@ -11,6 +11,7 @@ public class User {
 	private Boolean mailingList;
 	
 
+
 	public String getName() {
 		return name;
 	}
